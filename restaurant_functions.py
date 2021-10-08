@@ -7,7 +7,7 @@ def print_restaurant_details(cust_pref, cuisine_type):
         for detail in information:
             print("\t- " + str(detail))
         print()
-
+	
 def merge_dictionaries(x, y, z, a):
 	mergedDict = {**x, **y, **z, **a}
 	return mergedDict
