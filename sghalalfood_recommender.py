@@ -1,5 +1,9 @@
 """
 For self practice on loops, lists, dictionaries and functions. 
+This is a simple recommendation system for halal food in Singapore.
+Based on user's preference for cuisine type, or users can opt for random recommendation.
+Users may also contribute to the restaurant list if they wish to.
+I intend to slowly grow this recommender into one that can scrape information online, once I gain more knowledge on Python.
 """
 
 from restaurant_functions import print_restaurant_details, add_restaurant, merge_dictionaries
