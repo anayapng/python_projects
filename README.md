@@ -1,5 +1,5 @@
 # python_projects
 ## Because Practice makes Perfect
 
-This is a collection of my python projects that captures my progression as my knowledge in python grows. 
+As my knowledge in Python grows, this is a collection of projects that captures my progression.
 Any advice on improvement is greatly appreciated! 
