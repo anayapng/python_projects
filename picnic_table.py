@@ -1,4 +1,6 @@
 def print_picnic(itemsDict, leftWidth, rightWidth):
+    """Justifying text to ensure neat display of columns
+    """
     print("PICNIC ITEMS".center(leftWidth + rightWidth, '-'))
     for k, v in itemsDict.items():
         print(k.ljust(leftWidth, '.') + str(v).rjust(rightWidth))
